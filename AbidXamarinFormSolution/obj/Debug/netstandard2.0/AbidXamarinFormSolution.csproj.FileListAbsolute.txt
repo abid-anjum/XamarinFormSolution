@@ -1,0 +1,13 @@
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/bin/Debug/netstandard2.0/AbidXamarinFormSolution.deps.json
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/bin/Debug/netstandard2.0/AbidXamarinFormSolution.dll
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/bin/Debug/netstandard2.0/ref/AbidXamarinFormSolution.dll
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/bin/Debug/netstandard2.0/AbidXamarinFormSolution.pdb
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/AbidXamarinFormSolution.csprojAssemblyReference.cache
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/AbidXamarinFormSolution.AssemblyInfoInputs.cache
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/AbidXamarinFormSolution.AssemblyInfo.cs
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/AbidXamarinFormSolution.dll
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/ref/AbidXamarinFormSolution.dll
+/Users/abidhussain/Projects/AbidXamarinFormSolution/AbidXamarinFormSolution/obj/Debug/netstandard2.0/AbidXamarinFormSolution.pdb

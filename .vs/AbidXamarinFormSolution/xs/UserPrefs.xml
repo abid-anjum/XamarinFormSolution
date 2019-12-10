@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{EF8547DD-3326-4175-8426-D1D91009CBAF}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbidXamarinFormSolution" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AbidXamarinFormSolution.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AbidXamarinFormSolution.Android PreferredExecutionTarget="Android.Nexus_6_API_27" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
